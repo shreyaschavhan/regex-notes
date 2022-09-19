@@ -6,6 +6,10 @@ Best Reources:
 - [Learn Regex the easy way](https://github.com/ziishaned/learn-regex)
 - [Best Advice on the Internet](https://www.reddit.com/r/learnprogramming/comments/cduxuu/comment/etwj6hj/?utm_source=share&utm_medium=web2x&context=3)
 
+Practice:
+- [Regex Golf](https://alf.nu/RegexGolf)
+- [regexcrossword.com](https://regexcrossword.com/)
+- [regex101.com](https://regex101.com/quiz/1)
 
 ## 𝐄𝐬𝐜𝐚𝐩𝐞 𝐂𝐡𝐚𝐫𝐚𝐜𝐭𝐞𝐫𝐬
 
