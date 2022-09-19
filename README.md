@@ -1,6 +1,7 @@
 # ⁍ 𝐑𝐞𝐠𝐞𝐱 𝐍𝐨𝐭𝐞𝐬
 
 Best Reources:
+- [Interactive Regex Tutorial](regexone.com)
 - [Best Youtube Tutorial Video](https://youtu.be/sa-TUpSx1JA)
 - [Learn Regex the easy way](https://github.com/ziishaned/learn-regex)
 - [Best Advice on the Internet](https://www.reddit.com/r/learnprogramming/comments/cduxuu/comment/etwj6hj/?utm_source=share&utm_medium=web2x&context=3)
@@ -48,7 +49,7 @@ Key | Meaning
 --- | ---
 `[ ]` | Matches characters in brackets
 `[^ ]` | Matches characters NOT in brackets
-`|` | Either Or
+`\|` | Either Or
 `()` | Group
 
 ## 𝐐𝐮𝐚𝐧𝐭𝐢𝐟𝐢𝐞𝐫𝐬
