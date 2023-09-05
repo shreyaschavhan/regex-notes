@@ -68,3 +68,7 @@ Key | Meaning
 `{3,4}` | range of numbers (minimum, maximum)
 
 
+## Other notes:
+
+- To exclude a string: `^(?!pattern_to_exclude).*$`
+
